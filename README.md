@@ -1,1 +1,3 @@
-# serverless-node-test-message-app
+# serverless-node-text-message-app
+
+A Node text message app created with the Serverless Framework.
