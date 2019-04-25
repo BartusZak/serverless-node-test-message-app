@@ -1,0 +1,1 @@
+# serverless-node-test-message-app
